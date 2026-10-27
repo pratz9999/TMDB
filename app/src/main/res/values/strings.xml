@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TMDB</string>
+    <string name="search_movies">Search Movies</string>
+    <string name="movie_title">Movie title</string>
+    <string name="search">Search</string>
+    <string name="search_results">Search Results</string>
+    <string name="results_for_query">Results: %1$s</string>
+    <string name="no_results_for_query">No results found for movie "%1$s". Please check the spelling or try a different search term.</string>
+    <string name="no_results_enter_query">No results found for movie. Please enter a search query.</string>
+    <string name="no_movies_found">No Movies Found</string>
+    <string name="load_more">Load More</string>
+    <string name="could_not_load_more">Could not load more results</string>
+    <string name="movie_release">Release: %1$s</string>
+    <string name="movie_detail">Movie Detail</string>
+    <string name="could_not_load_movie_details">Could not load movie details.</string>
+    <string name="release_date">Release date: %1$s</string>
+    <string name="movie_rating">Rating: %1$.1f</string>
+    <string name="movie_rating_unavailable">Rating: %1$s</string>
+    <string name="not_available">N/A</string>
+    <string name="poster_unavailable">Movie poster unavailable</string>
+    <string name="movie_not_found">Movie Not Found</string>
+    <string name="no_movie_details_found">No results found for movie details.</string>
+    <string name="invalid_movie_id">Invalid movie ID.</string>
+    <string name="error">Error</string>
+    <string name="oops">Oops!</string>
+    <string name="try_again">Try Again</string>
+    <string name="navigate_back">Navigate back</string>
+    <string name="unexpected_error">An unexpected error occurred. Please try again.</string>
+    <string name="no_internet_connection">No internet connection. Please check your network connection and try again.</string>
+    <string name="unauthorized_request">Unauthorized request. Please check your API key.</string>
+    <string name="movie_not_found_error">The requested movie was not found.</string>
+    <string name="too_many_requests">Too many requests. Please try again in a few moments.</string>
+    <string name="tmdb_server_error">TMDb server error (%1$d). Please try again later.</string>
+    <string name="server_error">Server error (%1$d).</string>
+</resources>
